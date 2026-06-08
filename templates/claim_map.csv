@@ -1,0 +1,4 @@
+claim_id,claim_text,t_type,t_type_label,confidence,notes
+1,"Example: '95% of GenAI pilots fail to deliver business return'",T2,Methods/Statistical,high,"Replace with your own atomar claim"
+2,"Example: 'Our model achieves AUC 0.71 out-of-sample'",T4,Forecast-Performance,medium,"Replace with your own atomar claim"
+3,"Example: 'Port arrivals lead price by N weeks'",T3,Causal-Economic,medium,"Replace with your own atomar claim"

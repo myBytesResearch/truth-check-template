@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "The myBytes Truth-Check Protocol for AI Research Output"
+message: "If you use this protocol, templates or code, please cite as below."
+type: software
+authors:
+  - family-names: Winger
+    given-names: Guido
+    affiliation: myBytes GmbH
+  - family-names: Pianowski
+    given-names: Mariusz
+    affiliation: myBytes GmbH
+repository-code: "https://github.com/myBytesResearch/truth-check-template"
+url: "https://mybytes.com/research/notes/truth-check-protocol"
+abstract: >
+  A seven-step pre-publication protocol designed to make AI/ML research
+  output defensible: claim extraction, claim classification, anchor
+  mapping against a tier hierarchy of external evidence, reproducibility
+  bundle, steel-man counter-argument, limitations section, independent
+  review. Includes templates and a demo notebook reproducing the
+  claim-map of the companion article.
+keywords:
+  - ai-research
+  - reproducibility
+  - methodology
+  - truth-check
+  - vendor-evaluation
+  - data-science
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+version: 0.1.0
+date-released: "2026-06-07"

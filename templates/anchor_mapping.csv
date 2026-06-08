@@ -1,0 +1,4 @@
+claim_id,anchor_source,anchor_tier,anchor_url,bundle_present,steel_man_addressed,limitations_section,reviewer_pass
+1,"MIT NANDA State of AI in Business 2025; Fortune 2025-08-18",T2,https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/,n/a,yes,yes,pending
+2,"Walk-forward backtest with conformal calibration; companion notebook",T4,github.com/your-org/your-repo,yes,yes,yes,pending
+3,"Sockin & Xiong 2015 Journal of Finance",T1,https://doi.org/10.1111/jofi.12261,no,partial,yes,pending
