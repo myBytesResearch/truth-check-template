@@ -1,4 +1,4 @@
-# The Seven Steps — in Detail
+# The Seven Steps - in Detail
 
 This document is the protocol as referenced by the companion article.
 It is intentionally short. The discipline of the protocol comes from
@@ -6,7 +6,7 @@ It is intentionally short. The discipline of the protocol comes from
 
 ## Step 1 · Claim Extraction
 
-Break the text into **atomar claims** — single, falsifiable sentences.
+Break the text into **atomar claims** - single, falsifiable sentences.
 "Our model beats the baseline" is not atomar; it conflates *which*
 model, *which* baseline, *which* metric.
 
@@ -51,7 +51,7 @@ environment in ≤ 6 commands.
 
 ## Step 5 · Steel-Man Counter-Argument
 
-The strongest opposing view, rendered fairly, addressed in-text — not
+The strongest opposing view, rendered fairly, addressed in-text - not
 in a footnote. If you cannot articulate the steel-man, you do not yet
 understand the claim well enough to publish it.
 
@@ -62,7 +62,7 @@ knowledgeable reader would actively check.
 
 ## Step 7 · Independent Review
 
-A reviewer not involved in drafting checks steps 1–6 and signs off in
+A reviewer not involved in drafting checks steps 1-6 and signs off in
 the article's footer. The reviewer is named.
 
 ## Skin in the game

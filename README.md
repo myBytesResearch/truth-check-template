@@ -1,7 +1,7 @@
 # truth-check-template
 
 Companion repository to the article
-**"Ein Truth-Check-Protokoll für AI-Forschungs-Output — wie wir bei
+**"Ein Truth-Check-Protokoll für AI-Forschungs-Output - wie wir bei
 myBytes nichts veröffentlichen, das wir nicht verteidigen können"**
 ([mybytes.com/research/truth-check-protocol](https://mybytes.com/research/truth-check-protocol)).
 
@@ -11,28 +11,28 @@ their own AI/ML research output, vendor evaluations, or PoC reviews.
 
 ## What you get
 
-- `templates/claim_map.csv` — empty template for **Step 1 + 2**:
-  atomar claims of an article or pitch, each typed (T1–T7).
-- `templates/anchor_mapping.csv` — empty template for **Step 3**: per
+- `templates/claim_map.csv` - empty template for **Step 1 + 2**:
+  atomar claims of an article or pitch, each typed (T1-T7).
+- `templates/anchor_mapping.csv` - empty template for **Step 3**: per
   claim, the external evidence anchor with tier classification.
-- `templates/reproducibility_bundle.md` — checklist for **Step 4**.
-- `notebooks/truth_check_demo.ipynb` — reproduces Plot 3 of the
+- `templates/reproducibility_bundle.md` - checklist for **Step 4**.
+- `notebooks/truth_check_demo.ipynb` - reproduces Plot 3 of the
   companion article from the example claim-map.
-- `docs/protocol.md` — the seven steps in detail, as authored.
+- `docs/protocol.md` - the seven steps in detail, as authored.
 
 ## The seven steps in one line each
 
-1. **Claim Extraction** — break the text into atomar claims.
-2. **Claim Classification** — type each claim (T1 Stylized Fact, T2
+1. **Claim Extraction** - break the text into atomar claims.
+2. **Claim Classification** - type each claim (T1 Stylized Fact, T2
    Methods, T3 Causal, T4 Forecast, T5 Regulatory, T6 Remote Sensing,
    T7 Market Mechanism).
-3. **Anchor Mapping** — for every claim, at least one Tier-1 or Tier-2
+3. **Anchor Mapping** - for every claim, at least one Tier-1 or Tier-2
    source. Tier-3 never stands alone.
-4. **Reproducibility Bundle** — code, seed, data version, CITATION.cff.
-5. **Steel-Man Counter-Argument** — the strongest opposing view,
+4. **Reproducibility Bundle** - code, seed, data version, CITATION.cff.
+5. **Steel-Man Counter-Argument** - the strongest opposing view,
    addressed in-text.
-6. **Limitations** — where would this claim be false?
-7. **Independent Review** — second reviewer signs off against 1–6.
+6. **Limitations** - where would this claim be false?
+7. **Independent Review** - second reviewer signs off against 1-6.
 
 ## Quick start
 
@@ -80,4 +80,4 @@ See `CITATION.cff` for machine-readable metadata. To cite in text:
 ## Issues, PRs, criticism
 
 Please open issues or PRs. The protocol is explicitly open for
-critique — we want it to be stronger after release than before.
+critique - we want it to be stronger after release than before.
