@@ -3,7 +3,7 @@
 Companion repository to the article
 **"Ein Truth-Check-Protokoll für AI-Forschungs-Output — wie wir bei
 myBytes nichts veröffentlichen, das wir nicht verteidigen können"**
-([mybytes.com/research/notes/truth-check-protocol](https://mybytes.com/research/notes/truth-check-protocol)).
+([mybytes.com/research/truth-check-protocol](https://mybytes.com/research/truth-check-protocol)).
 
 This repository contains the templates and a reproducible demo notebook
 that anyone can use to apply the seven-step truth-check protocol to
@@ -75,7 +75,7 @@ Attribution to myBytes GmbH appreciated, not required.
 See `CITATION.cff` for machine-readable metadata. To cite in text:
 
 > Winger, G. & Pianowski, M. (2026). The myBytes Truth-Check Protocol
-> for AI Research Output. myBytes GmbH. https://mybytes.com/research/notes/truth-check-protocol
+> for AI Research Output. myBytes GmbH. https://mybytes.com/research/truth-check-protocol
 
 ## Issues, PRs, criticism
 
