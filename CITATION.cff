@@ -10,7 +10,7 @@ authors:
     given-names: Mariusz
     affiliation: myBytes GmbH
 repository-code: "https://github.com/myBytesResearch/truth-check-template"
-url: "https://mybytes.com/research/notes/truth-check-protocol"
+url: "https://mybytes.com/research/truth-check-protokoll"
 abstract: >
   A seven-step pre-publication protocol designed to make AI/ML research
   output defensible: claim extraction, claim classification, anchor
